@@ -1,0 +1,22 @@
+@@ -0,0 +1,20 @@
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+    align-content: center;
+}
+h1{
+    color: grey;
+     font-family: Verdana;
+
+}
+.maindiv{
+  background-color: rgb(62, 52, 52);
+  color: rgb(173, 124, 124);
+  width: 300px;
+  padding: 20px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+
